@@ -1,25 +1,26 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "PunkGo"
+title = "PunkGo.Ai"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  logo = "img/logo_clear.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "punkgo.ai website"
-  copyright = "Copy _PunkGo.ai_"
+  # copyright = "Copy _PunkGo.ai_"
 
-# [author]
-#   name = "Your name here"
-#   image = "img/blowfish_logo.png"
-#   headline = "I'm only human"
-#   bio = "A little bit about you"
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+[author]
+  name = "PunkGo.Ai"
+  # image = "/img/logo_clear.png"
+  headline = "Your Personal Platform of Computing"
+  # bio = "A little bit about you"
+  # links = [
+  #   { envelope = "mailto:contact-us@punkgo.ai" },
+  #   { x-twitter = "https://twitter.com/punkgoai" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -61,8 +62,7 @@ title = "PunkGo"
 #     { tumblr = "https://username.tumblr.com" },
 #     { twitch = "https://twitch.tv/username" },
 #     { twitter = "https://twitter.com/username" },
-#     { x-twitter = "https://twitter.com/username" },
 #     { whatsapp = "https://wa.me/phone-number" },
 #     { youtube = "https://youtube.com/username" },
 #     { ko-fi = "https://ko-fi.com/username" },
-#   ]
+  # ]
